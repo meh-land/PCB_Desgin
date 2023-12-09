@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=+5 Pin=CONV1-3
+Added Component: Designator=F2(FUSE)
+Added Pin To Net: NetName=+5 Pin=F2-2
+Added Pin To Net: NetName=NetCONV1_3 Pin=CONV1-3
+Added Pin To Net: NetName=NetCONV1_3 Pin=F2-1
+Added Net: Name=NetCONV1_3
+Added Member To Class: ClassName=PWR_Schem_1 Member=Component F2 Fuse Holder T5x20
