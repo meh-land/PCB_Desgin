@@ -1,0 +1,41 @@
+Change Net Name : Old Net Name=PA9 New Net Name=TX1
+Change Net Name : Old Net Name=PA10 New Net Name=RX1
+Change Net Name : Old Net Name=PB10 New Net Name=SCL2
+Change Net Name : Old Net Name=PB11 New Net Name=SDA2
+Change Net Name : Old Net Name=PB12 New Net Name=SS2
+Change Net Name : Old Net Name=PB13 New Net Name=SCK2
+Change Net Name : Old Net Name=PB14 New Net Name=MISO2
+Change Net Name : Old Net Name=PB15 New Net Name=MOSI2
+Added Pin To Net: NetName=Echo_1 Pin=J5-15
+Added Pin To Net: NetName=Echo_1 Pin=R3-1
+Added Pin To Net: NetName=Echo_1 Pin=U1-26
+Added Net: Name=Echo_1
+Added Pin To Net: NetName=Echo_2 Pin=J5-13
+Added Pin To Net: NetName=Echo_2 Pin=R4-1
+Added Pin To Net: NetName=Echo_2 Pin=U1-28
+Added Net: Name=Echo_2
+Added Pin To Net: NetName=Echo_3 Pin=J5-11
+Added Pin To Net: NetName=Echo_3 Pin=R5-1
+Added Pin To Net: NetName=Echo_3 Pin=U1-30
+Added Net: Name=Echo_3
+Added Pin To Net: NetName=Echo_4 Pin=J5-9
+Added Pin To Net: NetName=Echo_4 Pin=R6-1
+Added Pin To Net: NetName=Echo_4 Pin=U1-32
+Added Net: Name=Echo_4
+Added Pin To Net: NetName=Trig_1 Pin=J1-2
+Added Pin To Net: NetName=Trig_1 Pin=J5-16
+Added Pin To Net: NetName=Trig_1 Pin=U1-25
+Added Net: Name=Trig_1
+Added Pin To Net: NetName=Trig_2 Pin=J2-2
+Added Pin To Net: NetName=Trig_2 Pin=J5-14
+Added Pin To Net: NetName=Trig_2 Pin=U1-27
+Added Net: Name=Trig_2
+Added Pin To Net: NetName=Trig_3 Pin=J3-2
+Added Pin To Net: NetName=Trig_3 Pin=J5-12
+Added Pin To Net: NetName=Trig_3 Pin=U1-29
+Added Net: Name=Trig_3
+Added Pin To Net: NetName=Trig_4 Pin=J4-2
+Added Pin To Net: NetName=Trig_4 Pin=J5-10
+Added Pin To Net: NetName=Trig_4 Pin=U1-31
+Added Net: Name=Trig_4
+Added Room: Name=Sensy_Boi_sch

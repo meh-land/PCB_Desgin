@@ -1,0 +1,4 @@
+Added Component: Designator=C5(0603_CAP)
+Added Pin To Net: NetName=+5 Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C5-2
+Added Member To Class: ClassName=Sensy_Boi_sch Member=Component C5 0603_100n

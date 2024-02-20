@@ -1,0 +1,7 @@
+Added Component: Designator=U3(IMU)
+Added Pin To Net: NetName=GND Pin=U3-GND
+Added Pin To Net: NetName=PB1 Pin=U3-INT
+Added Pin To Net: NetName=SCL2 Pin=U3-SCL
+Added Pin To Net: NetName=SDA2 Pin=U3-SDA
+Added Pin To Net: NetName=+3V3_2 Pin=U3-VCC
+Added Member To Class: ClassName=Sensy_Boi_sch Member=Component U3 MPU-6050

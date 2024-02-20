@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=GND Pin=U3-GND
+Removed Pin From Net: NetName=PB1 Pin=U3-INT
+Removed Pin From Net: NetName=SCL2 Pin=U3-SCL
+Removed Pin From Net: NetName=SDA2 Pin=U3-SDA
+Removed Pin From Net: NetName=+5V Pin=U3-VCC
+Removed Member From Class: ClassName=Sensy_Boi_sch Member=U3
+Added Member To Class: ClassName=Sensy_Boi_sch Member=Component R6 0603_1kO
