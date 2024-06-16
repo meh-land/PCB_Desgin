@@ -1,0 +1,18 @@
+Removed Pin From Net: NetName=NetR6_2 Pin=R7-3
+Removed Pin From Net: NetName=GND Pin=R9-2
+Change Component Footprint: Designator=R7 Old Footprint=POT 3386P New Footprint=R0805
+Change Component Comment : Designator=R10 Old Comment=0805_68k New Comment=0805_220k
+Change Component Comment : Designator=R7 Old Comment=POT New Comment=0805_R
+Added Component: Designator=R11(R0805)
+Added Component: Designator=R12(POT 3386P)
+Added Pin To Net: NetName=+5 Pin=R7-1
+Added Pin To Net: NetName=NetR6_2 Pin=R7-2
+Added Pin To Net: NetName=NetR6_2 Pin=R10-2
+Added Pin To Net: NetName=NetR6_2 Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-3
+Added Pin To Net: NetName=NetR9_2 Pin=R9-2
+Added Pin To Net: NetName=NetR9_2 Pin=R11-2
+Added Pin To Net: NetName=NetR9_2 Pin=R12-2
+Added Net: Name=NetR9_2
+Added Member To Class: ClassName=VLC_RX_Schem Member=Component R11 0805_R
+Added Member To Class: ClassName=VLC_RX_Schem Member=Component R12 POT

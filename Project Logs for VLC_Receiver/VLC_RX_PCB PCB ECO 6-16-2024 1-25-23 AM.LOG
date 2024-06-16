@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=OUT4 Pin=R7-1
+Change Component Comment : Designator=R8 Old Comment=0805_R New Comment=0805_100k
+Change Component Comment : Designator=R5 Old Comment=0805_R New Comment=0805_220k
+Change Component Comment : Designator=R2 Old Comment=0805_R New Comment=0805_560k
+Added Component: Designator=C1(C0805 - 0.1uf)
+Added Component: Designator=R10(R0805)
+Added Pin To Net: NetName=OUT1 Pin=C1-1
+Added Pin To Net: NetName=NetD1_K Pin=C1-2
+Added Pin To Net: NetName=OUT4 Pin=R10-1
+Change Net Name : Old Net Name=NetD1_K New Net Name=NetC1_2
+Added Pin To Net: NetName=NetR7_1 Pin=R7-1
+Added Pin To Net: NetName=NetR7_1 Pin=R10-2
+Added Net: Name=NetR7_1
+Added Member To Class: ClassName=VLC_RX_Schem Member=Component C1 0805_10nF
+Added Member To Class: ClassName=VLC_RX_Schem Member=Component R10 0805_68k

@@ -1,0 +1,7 @@
+Removed Pin From Net: NetName=NetR4_3 Pin=R5-2
+Added Pin To Net: NetName=NetR4_3 Pin=R8-1
+Added Pin To Net: NetName=NetR4_3 Pin=U3-2
+Added Pin To Net: NetName=NetR4_2 Pin=R4-2
+Added Pin To Net: NetName=NetR4_2 Pin=R5-2
+Added Net: Name=NetR4_2
+Added Room: Name=VLC_RX_Schem

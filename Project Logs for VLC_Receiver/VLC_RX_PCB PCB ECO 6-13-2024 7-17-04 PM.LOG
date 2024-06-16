@@ -1,0 +1,10 @@
+Removed Pin From Net: NetName=GND Pin=J1-1
+Removed Pin From Net: NetName=OUT1 Pin=J1-2
+Removed Pin From Net: NetName=GND Pin=J2-1
+Removed Pin From Net: NetName=OUT3 Pin=J2-2
+Removed Pin From Net: NetName=GND Pin=J3-1
+Removed Pin From Net: NetName=OUT4 Pin=J3-2
+Removed Member From Class: ClassName=VLC_RX_Schem Member=J1
+Removed Member From Class: ClassName=VLC_RX_Schem Member=J2
+Removed Member From Class: ClassName=VLC_RX_Schem Member=J3
+Added Room: Name=VLC_RX_Schem
